@@ -1,2 +1,17 @@
-Style Code Refractor
-<html>
+
+#header {
+    font-size: 30px;
+    background-color: blue;
+}
+
+#header {
+    font: 100;
+    font-size: 12vh;
+    background-color: blue;
+
+}
+
+#aside {
+    float: right;
+    background-color: blue;
+}
