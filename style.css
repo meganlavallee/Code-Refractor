@@ -1,54 +1,101 @@
-*{
-    box-sizing: border-box;
-    padding: 0%;
-    margin: 0%;
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
 }
 
 .header {
-    font-size: 30px;
-    background-color: rgb(96, 96, 214);
-    color: white;
-    padding: 65px;
-    font-size: 35;
+  font-size: 30px;
+  background-color: rgb(164, 164, 179);
+  color: white;
+  padding: 65px;
+  font-size: 35;
 }
 
-.header div ul{
-    list-style-type: none;
-    color: white;
+.header div ul {
+  list-style-type: none;
+  color: white;
 }
 
-.header div ul li{
-    display: inline-block;
-    margin-left: 20px;
-    color: white;
-    font-size: 20;
-    float: right;
+.header div ul li {
+  display: inline-block;
+  margin-left: 20px;
+  color: white;
+  font-size: 20;
+  float: right;
 }
 
-.header h1{
-    display: inline-block;
-    float: left; 
-    padding: 0px;
+.header h1 {
+  display: inline-block;
+  float: left;
+  padding: 0px;
 }
 
 .meeting {
-    height: 1000px;
-    margin-bottom: 20px;
-    background-image: url("/Assets/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-image: center;
+  height: 1000px;
+  margin-bottom: 20px;
+  background-image: url("/Assets/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-image: center;
+}
+
+.reasons {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 .search-engine-optimization {
-    float: left;
-    background-color: teal;
-    margin-bottom: 20px;
-    display: block;
-    font-size: 25;
+  float: left;
+  background-color: teal;
+  margin-bottom: 20px;
+  display: block;
+  font-size: 25;
 }
 
-.search-image{
-    float: left;
-    height: 350px;
-    width: 450px;
+.search-image {
+  float: left;
+  height: 350px;
+  width: 450px;
+}
+
+.online-reputation-management {
+  float: left;
+  background-color: teal;
+  margin-bottom: 20px;
+  display: block;
+  font-size: 25;
+}
+
+.reputation {
+  float: right;
+  height: 350px;
+  width: 450px;
+}
+
+.social-media-marketing {
+  float: left;
+  background-color: teal;
+  margin-bottom: 20px;
+  display: block;
+  font-size: 25;
+}
+
+.marketing {
+  float: left;
+  height: 350px;
+  width: 450px;
+}
+
+.help {
+  width: 25%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.lead-generation {
+}
+.brand-awareness {
+}
+.cost-management {
 }
