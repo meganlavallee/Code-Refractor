@@ -46,6 +46,7 @@ body {
   background-size: cover;
   background-image: center;
 }
+
 /* Larger Bullets */
 .reasons {
   width: 75%;
@@ -67,7 +68,6 @@ body {
 
 .online-reputation-management {
   float: left;
-  
   display: block;
   font-size: 25;
   background-color: rgb(64, 106, 185);
@@ -81,7 +81,6 @@ body {
 
 .social-media-marketing {
   float: left;
-  
   display: block;
   background-color: rgb(64, 106, 185);
 }
@@ -92,6 +91,7 @@ body {
   width: 350px;
 }
 
+/* Side Panel */
 .help {
   margin-right: 20px;
   padding: 20px;
@@ -104,21 +104,27 @@ body {
 }
 
 .lead {
-  width: 100%;
-  margin-bottom: 30px;
-  margin-top: 20px;
-}
-.brand {
-  width: 100%;
-  margin-bottom: 30px;
-  margin-top: 20px;
-}
-.cost {
-  width: 100%;
+  width: 75%;
   margin-bottom: 30px;
   margin-top: 20px;
 }
 
-.footer {
-  float: center;
+.brand {
+  width: 75%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.cost {
+  width: 75%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+/* Footer */
+.footer{ 
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
