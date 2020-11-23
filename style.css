@@ -1,17 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
 
-#header {
+.header {
     font-size: 30px;
-    background-color: blue;
+    background-color: rgb(96, 96, 214);
+    color: white;
+    padding: 65px;
+    font-size: 35;
 }
 
-#header {
-    font: 100;
-    font-size: 12vh;
-    background-color: blue;
-
+.header div ul{
+    list-style-type: none;
+    color: white;
 }
 
-#aside {
+.header div ul li{
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+    font-size: 20;
     float: right;
-    background-color: blue;
+}
+
+.header h1{
+    display: inline-block;
+    float: left; 
+    padding: 0px;
 }
