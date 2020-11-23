@@ -4,33 +4,41 @@
   margin: 0%;
 }
 
+body {
+  background-color: rgb(119, 117, 117);
+}
+
 .header {
   font-size: 30px;
   background-color: rgb(164, 164, 179);
   color: white;
   padding: 65px;
-  font-size: 35;
+  font-size: 35px;
 }
 
+/* Organization of Header Bar */
 .header div ul {
   list-style-type: none;
   color: white;
 }
 
+/*Links in Header*/
 .header div ul li {
   display: inline-block;
   margin-left: 20px;
   color: white;
-  font-size: 20;
+  font-size: 20px;
   float: right;
 }
 
+/* Name of Company */
 .header h1 {
   display: inline-block;
   float: left;
-  padding: 0px;
+  font-size: 52px;
 }
 
+/* Main Picture on Web */
 .meeting {
   height: 1000px;
   margin-bottom: 20px;
@@ -38,7 +46,7 @@
   background-size: cover;
   background-image: center;
 }
-
+/* Larger Bullets */
 .reasons {
   width: 75%;
   display: inline-block;
@@ -47,44 +55,41 @@
 
 .search-engine-optimization {
   float: left;
-  background-color: teal;
-  margin-bottom: 20px;
   display: block;
-  font-size: 25;
+  background-color: rgb(64, 106, 185);
 }
 
 .search-image {
   float: left;
-  height: 350px;
-  width: 450px;
+  height: 250px;
+  width: 350px;
 }
 
 .online-reputation-management {
   float: left;
-  background-color: teal;
-  margin-bottom: 20px;
+  
   display: block;
   font-size: 25;
+  background-color: rgb(64, 106, 185);
 }
 
 .reputation {
   float: right;
-  height: 350px;
-  width: 450px;
+  height: 250px;
+  width: 350px;
 }
 
 .social-media-marketing {
   float: left;
-  background-color: teal;
-  margin-bottom: 20px;
+  
   display: block;
-  font-size: 25;
+  background-color: rgb(64, 106, 185);
 }
 
 .marketing {
   float: left;
-  height: 350px;
-  width: 450px;
+  height: 250px;
+  width: 350px;
 }
 
 .help {
@@ -94,23 +99,24 @@
   float: right;
   width: 20%;
   height: 100%;
-  background-color: thistle;
+  background-color: rgb(24, 119, 119);
+  text-emphasis-color: white;
 }
 
 .lead {
   width: 100%;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
 .brand {
   width: 100%;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
 .cost {
   width: 100%;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
 
 .footer {
