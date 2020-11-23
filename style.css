@@ -30,3 +30,25 @@
     float: left; 
     padding: 0px;
 }
+
+.meeting {
+    height: 1000px;
+    margin-bottom: 20px;
+    background-image: url("/Assets/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-image: center;
+}
+
+.search-engine-optimization {
+    float: left;
+    background-color: teal;
+    margin-bottom: 20px;
+    display: block;
+    font-size: 25;
+}
+
+.search-image{
+    float: left;
+    height: 350px;
+    width: 450px;
+}
