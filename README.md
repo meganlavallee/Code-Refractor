@@ -16,9 +16,6 @@ This website is a good building block for other webpages in the future.
 Deployment:
 Deployment will be on webpage through Github. Users will be able to view through webpage listed down below as well. 
 
-Conclusion:
-Webpage is a building block. 
-
 
 Link to deployed app
 https://meganlavallee.github.io/Code_Refractor/
