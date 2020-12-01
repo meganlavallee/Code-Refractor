@@ -42,7 +42,7 @@ body {
 .meeting {
   height: 1000px;
   margin-bottom: 20px;
-  background-image: url("/Assets/digital-marketing-meeting.jpg");
+  background-image: url("digital-marketing-meeting.jpg");
   background-size: cover;
   background-image: center;
 }
