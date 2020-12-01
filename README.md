@@ -18,7 +18,7 @@ Deployment will be on webpage through Github. Users will be able to view through
 
 
 Link to deployed app
-https://meganlavallee.github.io/Code_Refractor/
+https://meganlavallee.github.io/Code-Refractor/
 
 Contact Information: 
 Megan Lavallee
